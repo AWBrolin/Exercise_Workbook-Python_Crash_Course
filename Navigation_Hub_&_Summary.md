@@ -1,6 +1,6 @@
 # Python Crash Course - Complete Exercise Collection
 
-*"Tell me and I forget. Teach me and I remember. Involve me and I learn."* — **Benjamin Franklin**
+*"Tell me and I forget. Teach me and I may remember. Involve me and I learn."* — **Benjamin Franklin**
 
 Your journey from beginner to capable Python developer starts with the first cell you run. These notebooks are here to guide you, but **your curiosity and persistence will carry you forward**.
 
@@ -97,7 +97,7 @@ Congratulations! You now have a complete, professionally-structured collection o
 
 ## 💡 **Tips for Maximum Learning**
 
-- **📱 Use split view:** Keep this summary.md open alongside your current chapter
+- **📱 Use split view:** Keep this Navigation_Hub_&_Summary.md open alongside your current chapter
 - **🔄 Run cells sequentially:** Each cell builds on the previous ones
 - **✏️ Experiment freely:** These are YOUR notebooks - modify, break, and rebuild!
 - **📝 Take notes:** Add your own markdown cells with insights and questions
@@ -211,5 +211,6 @@ Training exercises, Python Crash Course, Plug and Play/
 *"The expert in anything was once a beginner."* — **Helen Hayes**
 
 Happy coding! 🐍✨
+
 
 **Last updated:** October 2025 | **Notebooks:** 20/20 Complete | **Status:** Ready for Learning 🎓
