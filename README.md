@@ -11,7 +11,7 @@ This is a complete collection of **20 interactive Jupyter notebooks** covering e
 ### 🚀 Quick Start
 
 1. **Open in VS Code** with the Jupyter extension
-2. **Click [summary.md](summary.md)** for the complete navigation guide
+2. **Click [Navigation_Hub_&_Summary.md](Navigation_Hub_&_Summary.md)** for the complete navigation guide
 3. **Start with [Chapter 1](chapter_1.ipynb)** or jump to any chapter that interests you
 
 ### 📚 What's Included
@@ -31,6 +31,7 @@ This is a complete collection of **20 interactive Jupyter notebooks** covering e
 
 ---
 
-**👉 [Start your Python journey here →](summary.md)**
+**👉 [Start your Python journey here →](Navigation_Hub_&_Summary.md)**
+
 
 *Part of the Python learning ecosystem | Optimized for VS Code + Jupyter*
