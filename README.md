@@ -49,6 +49,11 @@ Beginners learning Python systematically, students following the book curriculum
 
 ---
 
-**→ [Open Navigation Hub](Navigation_Hub_&_Summary.md)** to begin
+To get started:
+**Download the ZIP file containing all chapter notebooks, extract its contents, and open the extracted folder in Visual Studio Code.**
+Ensure you have the Python and Jupyter extensions installed to run the notebooks smoothly.
+
+*→ [Open Navigation Hub](Navigation_Hub_&_Summary.md)*
+
 
 *Optimized for VS Code + Jupyter | Last updated: October 2025*
