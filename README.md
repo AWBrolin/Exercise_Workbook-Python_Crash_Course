@@ -1,37 +1,54 @@
-# Python Crash Course - Complete Jupyter Notebook Collection
+# Python Crash Course – Jupyter Notebook Collection
 
-🎯 **Jump right in:** [**Open the Interactive Navigation Guide →**](Navigation_Hub_&_Summary.md)
-
----
-
-## What You'll Find Here
-
-This is a complete collection of **20 interactive Jupyter notebooks** covering every chapter of **Python Crash Course** by Eric Matthes. Each notebook is professionally structured, fully documented, and ready to run in VS Code.
-
-### 🚀 Quick Start
-
-1. **Open in VS Code** with the Jupyter extension
-2. **Click [Navigation_Hub_&_Summary.md](Navigation_Hub_&_Summary.md)** for the complete navigation guide
-3. **Start with [Chapter 1](chapter_1.ipynb)** or jump to any chapter that interests you
-
-### 📚 What's Included
-
-- ✅ **20 complete chapters** with hands-on exercises
-- ✅ **Interactive navigation** with clickable links
-- ✅ **Learning path recommendations** for different goals
-- ✅ **Professional formatting** optimized for VS Code with Jupyter extension
-- ✅ **Comprehensive setup guides** and troubleshooting
-
-### 🎯 Perfect For
-
-- **Python beginners** looking for structured, hands-on practice
-- **Students** following the Python Crash Course curriculum
-- **Educators** who want ready-to-use teaching materials
-- **Self-learners** who prefer interactive coding environments
+Complete set of 20 interactive Jupyter notebooks aligned with *Python Crash Course* by Eric Matthes. Designed for hands-on learning in VS Code.
 
 ---
 
-**👉 [Start your Python journey here →](Navigation_Hub_&_Summary.md)**
+## Contents
 
+**Part I: Fundamentals** (Chapters 1–11)  
+Variables, data structures, functions, classes, file I/O, testing
 
-*Part of the Python learning ecosystem | Optimized for VS Code + Jupyter*
+**Part II: Projects** (Chapters 12–20)  
+Game development (Pygame), data visualization (Matplotlib), web applications (Django)
+
+---
+
+## Getting Started
+
+1. Open this folder in VS Code with the Jupyter extension installed
+2. Navigate using **[Navigation_Hub_&_Summary.md](Navigation_Hub_&_Summary.md)** for the full chapter index
+3. Start with [Chapter 1](chapter_1.ipynb) or jump to any chapter
+
+**Requirements:** Python 3.8+, VS Code, Jupyter extension
+
+---
+
+## Features
+
+- Pre-structured exercise templates for active learning
+- Minimal setup friction – start coding immediately
+- Sequential skill progression from basics to production deployment
+- Reference code preserved where educational value is high
+
+---
+
+## Ideal For
+
+Beginners learning Python systematically, students following the book curriculum, educators seeking ready-to-use materials, and self-learners who prefer interactive environments.
+
+---
+
+## Attribution
+
+> **Based on the book _Python Crash Course_ by Eric Matthes**  
+> All exercises and concepts referenced in this collection are derived from his original work.  
+>  
+> **Compiled and structured by Alexander W. Brolin**  
+> This notebook collection was created to support hands-on learning through organized, editable Jupyter notebooks. It is intended as a learning aid and does not replace the original text.
+
+---
+
+**→ [Open Navigation Hub](Navigation_Hub_&_Summary.md)** to begin
+
+*Optimized for VS Code + Jupyter | Last updated: October 2025*
